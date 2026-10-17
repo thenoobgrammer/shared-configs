@@ -44,6 +44,7 @@ nnoremap <C-z> u<CR>
 nnoremap <S-Down> Vj
 nnoremap <S-Up> Vk
 
+inoremap <A-q> :Esc<CR>
 inoremap <C-z> u<CR>
 inoremap <C-e> <C-o>:Explore<CR>
 inoremap <C-s> <C-o>:w<CR>
